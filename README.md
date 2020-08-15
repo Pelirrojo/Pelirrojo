@@ -7,8 +7,6 @@
 🔭 I’m currently working at [@KeeplerIO](https://github.com/KeeplerIO)
 
 I have my code distributed throughout the following organizations, which are divided by theme.
-
-Feel free to research, collaborate and contribute.
  
 * [Frontend & Mobility Apps](https://github.com/Mobile-hub)
 * [Painless Local Development Environment](https://github.com/painless-local-development)
@@ -18,3 +16,5 @@ Feel free to research, collaborate and contribute.
 * [Cloud & DevOps Labs](https://github.com/Cloud-DevOps-Labs)
 
 <!-- thanks to: https://gfycat.com/eminentunfinisheddobermanpinscher-windows-10-animated-wallpaper-video-wallpapers -->
+
+Feel free to research, collaborate and contribute.
