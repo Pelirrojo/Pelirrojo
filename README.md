@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-🌍 I live in Madrid, Spain, but we can communicate in [🇬🇧,🇪🇸,🇵🇹]
+🌍 I live in Madrid, Spain.
 
 💻 I’m currently working at [@KeeplerIO](https://github.com/KeeplerIO)
 
@@ -12,7 +12,7 @@ I have my code distributed throughout the following organizations, which are div
  
 * 📱 [Frontend & Mobility Apps](https://github.com/Mobile-hub)
 * ☁️ [Cloud & DevOps Labs](https://github.com/Cloud-DevOps-Labs)
-* 🐃 [Open Source Contributions](https://github.com/open-source-purposals)
+* :octocat: [Open Source Contributions](https://github.com/open-source-purposals)
 * 📊 [Data Visualization Labs and Samples](https://github.com/Data-Viz-Labs)
 * 🧠 [Machine Learning & IA Samples and demos](https://github.com/Machine-Learning-Labs)
 * 🐳 [Painless Local Development Environment](https://github.com/painless-local-development)
