@@ -5,6 +5,7 @@
 ### Hi there 👋
 
 🌍 I live in Madrid, Spain, but we can communicate in [🇬🇧,🇪🇸,🇵🇹]
+
 💻 I’m currently working at [@KeeplerIO](https://github.com/KeeplerIO)
 
 I have my code distributed throughout the following organizations, which are divided by theme.
