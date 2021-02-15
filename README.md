@@ -15,7 +15,7 @@ I have my code distributed throughout the following organizations, which are div
 * :octocat: [Open Source Contributions](https://github.com/open-source-purposals)
 * 📊 [Data Visualization Labs and Samples](https://github.com/Data-Viz-Labs)
 * 🧠 [Machine Learning & IA Samples and demos](https://github.com/Machine-Learning-Labs)
-* 🤖 [DIY forge](https://github.com/diy-forge)
+* 🤖 [DIY forge: Projects, tutorials & Ideas](https://github.com/diy-forge)
 * 🐳 [Painless Local Development Environment](https://github.com/painless-local-development)
 
 
