@@ -12,7 +12,7 @@ I have my code distributed throughout the following organizations, which are div
  
 * 📱 [Frontend & Mobility Apps](https://github.com/Mobile-hub)
 * ☁️ [Cloud & DevOps Labs](https://github.com/Cloud-DevOps-Labs)
-* :octocat: [Open Source Contributions](https://github.com/open-source-purposals)
+* :octocat: [Open Source Contributions](https://github.com/open-source-proposals)
 * 📊 [Data Visualization Labs and Samples](https://github.com/Data-Viz-Labs)
 * 🧠 [Machine Learning & IA Samples and demos](https://github.com/Machine-Learning-Labs)
 * 🤖 [DIY forge: Projects, tutorials & Ideas](https://github.com/diy-forge)
