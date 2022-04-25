@@ -6,8 +6,6 @@
 
 🌍 I live in Madrid, Spain.
 
-💻 I’m currently working at [@KeeplerIO](https://github.com/KeeplerIO)
-
 I have my code distributed throughout the following organizations, which are divided by theme.
  
 * 📱 [Frontend & Mobility Apps](https://github.com/Mobile-hub)
